@@ -27,7 +27,7 @@ Loan: id, member (from the Member table), books (from the book table), date of l
 
 The system has 6 different modules with the following functionalities:
 
-1. Book module
+### Book module
 List all the books in the system.
 
 Add a book to the system.
@@ -38,7 +38,7 @@ Delete a book from the system.
 
 Search a book in the system by title, author, or publisher.
 
-2. Author module
+### Author module
 List all the authors in the system.
 
 Add an author to the system.
@@ -49,7 +49,7 @@ Delete an author from the system.
 
 Search an author in the system by firstname, and lastname.
 
-3. Publisher module
+### Publisher module
 
 List all the publishers in the system.
 
@@ -61,7 +61,7 @@ Delete a publisher from the system.
 
 Search publishers in the system by name or country.
 
-4. Genre module
+### Genre module
 List all the genres in the system.
 
 Add a genre to the system.
@@ -72,7 +72,7 @@ Delete a genre from the system.
 
 Search genre in the system by name
 
-5. Member:
+### Member:
 List all the members in the system.
 
 Add a member to the system.
@@ -83,7 +83,7 @@ Delete a member from the system.
 
 Search members in the system by name.
 
-6. Loans:
+### Loans:
 List all the loan in the system.
 
 Add a loan to the system.
