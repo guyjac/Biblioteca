@@ -1,0 +1,132 @@
+{
+	"Author": [
+	{
+		"firstname": "Guy",
+		"lastname": "Jacobs"
+	},
+	{
+		"firstname": "Robert",
+		"lastname": "Savage"
+	},
+	{
+		"firstname": "Andrea",
+		"lastname": "Levy"
+	}
+	],
+	
+	"Publisher": [
+	{
+		"name": "Penguin",
+		"country": "United Kingdom"
+	},
+	{
+		"name": "CoolMaths",
+		"country": "France"
+	},
+	{
+		"name": "Headline Publishing Group",
+		"country": "Africa"
+	}
+	],
+	
+	"Genre": [
+	{
+		"name": "Thriller"
+	},
+	{
+		"name": "Education"
+	},
+	{
+		"name": "Fiction"
+	}
+	],
+	
+	"Book": [
+	{
+		"title": "Game Of Thrones",
+		"year": "2002",
+		"author": "Guy Jacobs",
+		"publisher": "Penguin",
+		"genre": "Thriller"
+	},
+	{
+		"title": "Subtraction",
+		"year": "1987",
+		"author": "Robert Savage",
+		"publisher": "CoolMaths",
+		"genre": "Education"
+	},
+	{
+		"title": "Small Island",
+		"year": "2004",
+		"author": "Andrea Levy",
+		"publisher": "Headline Publishing Group",
+		"genre": "Fiction"
+	}
+	],
+	
+	"Member": [
+	{
+		"firstname": "Evelin",
+		"lastname": "Priska",
+		"phone_num": "07956213908",
+		"address": "64 Hawthorne Avenue",
+		"city": "Colchester",
+		"country": "England"
+	},
+	{
+		"firstname": "Max",
+		"lastname": "Jacobs",
+		"phone_num": "07956555908",
+		"address": "4 Walnut Meadow",
+		"city": "Ipswich",
+		"country": "England"
+	}
+	],
+	
+	"Loan": [
+	{
+		"member": "Evelin Priska",
+		"books": "Game Of Thrones, Small Island",
+		"loan_out_date": "12/12/19",
+		"loan_due_date": "12/24/19",
+		"returns": "false"
+	},
+	{
+		"member": "Evelin Priska",
+		"books": "Subtraction",
+		"loan_out_date": "12/12/12",
+		"loan_due_date": "12/24/15",
+		"returns": "false"
+	},
+	{
+		"member": "Max Jacobs",
+		"books": "Small Island",
+		"loan_out_date": "12/12/12",
+		"loan_due_date": "12/24/15",
+		"returns": "false"
+	}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
